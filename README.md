@@ -19,9 +19,6 @@ Aplicación web desarrollada en **JavaScript** orientada a la gestión eficiente
 3. Instala las dependencias: `npm install`
 4. Inicia el servidor de desarrollo: `npm run dev` o `npm start`
 
-## 📸 Capturas de Pantalla
-*(Agrega aquí un par de imágenes de la aplicación funcionando, usando el mismo formato que usamos en Subastas UES: `![Descripción](ruta-de-la-imagen.png)`)*
-
 ## 👥 Equipo de Desarrollo
 Proyecto desarrollado de forma colaborativa por:
 - Isaí Alberto Rivera Hidalgo
